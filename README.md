@@ -6,7 +6,7 @@
 ![1746302071477](https://github.com/user-attachments/assets/c7664a4d-f805-456a-90df-9b2757124880)
 
 
-## Hi there 👋 **I'm Michael Atolwa**
+<h1 align="center">Hi 👋, I'm Michael Atolwa</h1>
 <h3 align="center">A Backend Developer </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=skywokerr-cmd&label=Profile%20views&color=0e75b6&style=flat" alt="skywokerr-cmd" /> </p>
 
