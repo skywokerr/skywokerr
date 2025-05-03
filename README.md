@@ -11,8 +11,7 @@
 
 - 📫 How to reach me **atolwamichael7@gmail.com**
   
-- Find my other accounts https://linktr.ee/michael_atolwa
-- My favorite search engine is [Duck Duck Go](https://duckduckgo.com).
+-  Find my other accounts [here](https://linktr.ee/michael_atolwa).
 
 - ⚡ Fun fact **I'm into classical and philosophical books**
 
