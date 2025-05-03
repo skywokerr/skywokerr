@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **atolwamichael7@gmail.com**
   
-- Find my other accounts here https://linktr.ee/michael_atolwa] (https://linktr.ee/michael_atolwa)
+- Find my other accounts [here] (https://linktr.ee/michael_atolwa)
 
 - ⚡ Fun fact **I'm into classical and philosophical books**
 
