@@ -7,6 +7,7 @@
 
 
 ## Hi there 👋 **I'm Michael Atolwa**
+<h3 align="center">A Backend Developer </h3>
 
 <!--
 **skywokerr/skywokerr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
