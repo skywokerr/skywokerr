@@ -3,7 +3,7 @@
   <img src="https://profile-counter.glitch.me/skywokerr/count.svg" alt="Visitor's Count" />
 </div>
 
-## Hi there 👋
+## Hi there 👋 **I'm Michael Atolwa**
 
 <!--
 **skywokerr/skywokerr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
