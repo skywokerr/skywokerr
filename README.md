@@ -8,6 +8,7 @@
 
 ## Hi there 👋 **I'm Michael Atolwa**
 <h3 align="center">A Backend Developer </h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=joanne-cmd&label=Profile%20views&color=0e75b6&style=flat" alt="joanne-cmd" /> </p>
 
 <!--
 **skywokerr/skywokerr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
