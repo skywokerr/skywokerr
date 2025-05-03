@@ -10,6 +10,8 @@
 - 🌱 I’m currently building on  **Python, Django**
 
 - 📫 How to reach me **atolwamichael7@gmail.com**
+  
+- Find my other accounts here [here] (https://linktr.ee/michael_atolwa)
 
 - ⚡ Fun fact **I'm into classical and philosophical books**
 
