@@ -3,6 +3,9 @@
   <img src="https://profile-counter.glitch.me/skywokerr/count.svg" alt="Visitor's Count" />
 </div>
 
+![1746302071477](https://github.com/user-attachments/assets/c7664a4d-f805-456a-90df-9b2757124880)
+
+
 ## Hi there 👋 **I'm Michael Atolwa**
 
 <!--
