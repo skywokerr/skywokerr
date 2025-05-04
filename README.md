@@ -10,6 +10,8 @@
 - 🌱 I’m currently building on  **Python, Django**
 
 - 📫 How to reach me **atolwamichael7@gmail.com**
+
+- Book a 1:1 [session](https://calendly.com/atolwamichael7/let-s-talk) with me 
   
 -  Find my other accounts [here](https://linktr.ee/michael_atolwa).
 
