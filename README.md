@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=skywokerr-cmd&label=Profile%20views&color=0e75b6&style=flat" alt="skywokerr-cmd" /> </p>
 <p align="left"> <a href="https://twitter.com/atolwamichael98" target="blank"><img src="https://img.shields.io/twitter/follow/atolwamichael98?logo=twitter&style=for-the-badge" alt="atolwamichael98" /></a> </p>
 
-🔭 I’m currently working on **Backend Development Projects**
+🔭 I’m currently working on **FrontEnd Development Projects**
 
 - 🌱 I’m currently building on  **TypeScript, Next.js**
 
