@@ -7,7 +7,7 @@
 
 🔭 I’m currently working on **Full Stack Development Projects**
 
-- 🌱 I’m currently building on  **MongoDB,Express, React and Node.js**
+- 🌱 I’m currently building on  **MongoDB, Express, React and Node.js**
 
 - 📫 How to reach me **atolwamichael7@gmail.com**
 
